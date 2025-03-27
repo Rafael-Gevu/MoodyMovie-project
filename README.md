@@ -12,10 +12,10 @@
 A responsive website that recommends movies to the user based on their mood.
 
 ### Screenshots
-<img src="./src/images/main-page-screenshot.png" alt="main-page-screenshot">
+<img  src="./src/images/main-page-screenshot.png" alt="main-page-screenshot">
 <img src="./src/images/filtered-page-screenshot.png" alt="filtered-page-screenshot">
-<img src="./src/images/single-page-screenshot.png" alt="single-page-screenshot">
-<img src="./src/images/responsive-single-page-screenshot.png" alt="responsive-single-page-screenshot">
+<img src="./src/images/single-page-screenshot.png" alt="single-page-screenshot" >
+<img src="./src/images/responsive-single-page-screenshot.png" alt="responsive-single-page-screenshot" width="400">
 
 ### Functionalities
  The user can select their mood from a dropdown menu, automatically generating a list of movies from different genres that match the chosen emotional state. Each movie is displayed in an interactive card, and clicking on it takes the user to a page with detailed information about the title. Additionally, the site offers the option to switch between Portuguese and English, ensuring a personalized and accessible experience.
