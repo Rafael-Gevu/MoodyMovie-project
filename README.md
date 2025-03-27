@@ -12,10 +12,10 @@
 A responsive website that recommends movies to the user based on their mood.
 
 ### Screenshots
-<img  src="./src/images/main-page-screenshot.png" alt="main-page-screenshot">
-<img src="./src/images/filtered-page-screenshot.png" alt="filtered-page-screenshot">
-<img src="./src/images/single-page-screenshot.png" alt="single-page-screenshot" >
-<img src="./src/images/responsive-single-page-screenshot.png" alt="responsive-single-page-screenshot" width="400">
+<img src="./src/images/main-page-screenshot.png" width="500" alt="main-page-screenshot">
+<img src="./src/images/filtered-page-screenshot.png" width="500" alt="filtered-page-screenshot">
+<img src="./src/images/single-page-screenshot.png" width="500" alt="single-page-screenshot">
+<img src="./src/images/responsive-single-page-screenshot.png" alt="responsive-single-page-screenshot" width="300">
 
 ### Functionalities
  The user can select their mood from a dropdown menu, automatically generating a list of movies from different genres that match the chosen emotional state. Each movie is displayed in an interactive card, and clicking on it takes the user to a page with detailed information about the title. Additionally, the site offers the option to switch between Portuguese and English, ensuring a personalized and accessible experience.
@@ -33,13 +33,15 @@ Ultimately, this project was not just a technical exercise but also a way to exp
 ### Built with
 - HTML 5
 - CSS 3
+
 - React JS
 - JSON
 - API
 - Git/GitHub
 
 ### Link
-https://moody-movie-iumfzjvpq-rafaels-projects-3b81a1b9.vercel.app
+https://moody-movie-project-cor414b3y-rafaels-projects-3b81a1b9.vercel.app
+
 
 ### Author
 Rafael Gevú
@@ -61,10 +63,10 @@ Rafael Gevú
 Um site responsivo que recomenda filmes para o usuário com base no seu humor.
 
 ### Capturas de tela
-<img src="./src/images/main-page-screenshot.png" alt="main-page-screenshot">
-<img src="./src/images/filtered-page-screenshot.png" alt="filtered-page-screenshot">
-<img src="./src/images/single-page-screenshot.png" alt="single-page-screenshot">
-<img src="./src/images/responsive-single-page-screenshot.png" alt="responsive-single-page-screenshot">
+<img src="./src/images/main-page-screenshot.png" width="500" alt="main-page-screenshot">
+<img src="./src/images/filtered-page-screenshot.png" width="500" alt="filtered-page-screenshot">
+<img src="./src/images/single-page-screenshot.png" width="500" alt="single-page-screenshot">
+<img src="./src/images/responsive-single-page-screenshot.png" alt="responsive-single-page-screenshot" width="300">
 
 ### Funcionalidades
 O usuário pode selecionar seu humor através de um menu suspenso, gerando automaticamente uma lista de filmes de diferentes gêneros que correspondem ao estado emocional escolhido. Cada filme é exibido em um card interativo, e ao clicar nele, o usuário é direcionado para uma página com informações detalhadas sobre o título. Além disso, o site oferece a opção de alternar o idioma entre português e inglês, garantindo uma experiência personalizada e acessível.
@@ -90,7 +92,7 @@ No final, esse projeto não foi apenas um exercício técnico, mas também uma f
 - Git/GitHub
 
 ### Link
-https://moody-movie-iumfzjvpq-rafaels-projects-3b81a1b9.vercel.app
+https://moody-movie-project-cor414b3y-rafaels-projects-3b81a1b9.vercel.app
 
 ### Autor
 Rafael Gevu
